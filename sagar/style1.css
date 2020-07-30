@@ -1,0 +1,43 @@
+{
+ margin: 0;
+ padding: 0;
+}
+#nav-bar
+{
+ position: sticky:
+ top: 0:
+ zindex: 10;
+}
+.navbar-brand img
+{
+ height: 80px;
+ padding-left: 30px;
+ }
+
+ .navbar-nav li
+{
+ padding: 0 10px;
+}
+.navbar-nav li a
+{
+ float: right;
+ text-align: center;
+}
+#nav-bar ul li a:hover
+{
+ colour: #007bff!important;
+}
+.navbar
+{
+ background: #fff;
+}
+.navbar-toggler
+{
+ border: none!important;
+}
+.nav-link
+{
+  colour: #555!important;
+  font-weight: 600;
+  font-size: 20px;
+}
